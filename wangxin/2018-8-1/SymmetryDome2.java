@@ -1,4 +1,4 @@
-package com.labwinner.sep.day1;
+﻿package com.labwinner.sep.day1;
 
 import java.util.Scanner;
 
@@ -28,11 +28,7 @@ public class SymmetryDome2 {
 		
 		Scanner sc=new Scanner(System.in);
 		String ch=sc.nextLine();
-		//String sc="";
-		//String c="";
-	//StringBuffer sc=new StringBuffer("我爱你你爱我");
-		//string ch =sc.charAt(i);
-		//System.out.println();
+		
 		SymmetryDome2.isSymmetry(ch);
 		
 		
